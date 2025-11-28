@@ -46,6 +46,6 @@ I’m an aspiring **MERN Stack Developer** passionate about using **JavaScript**
 
 ### 📫 Let's Connect!
 
-- LinkedIn: [linkedin.com/in/sm-motiur-rahman-50a243190](https://www.linkedin.com/in/sm-motiur-rahman-50a243190/)
-- Portfolio: [motiur-rahman-portfolio.netlify.app](https://motiur-rahman-portfolio.netlify.app/)
-- Email: [motiurr503@gmail.com](mailto:motiurr503@gmail.com)
+- LinkedIn: [linkedin.com/in/sm-motiur-rahman-50a243190](https://www.linkedin.com/in/sm-motiur-rahman/)
+- Portfolio: [motiur-rahman-portfolio.netlify.app](https://sm-motiur.vercel.app/)
+- Email: [motiurr503@gmail.com](motiurr503@gmail.com)
