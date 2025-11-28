@@ -5,8 +5,8 @@
 
 # 👋 Hi, I'm Motiur Rahman!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sm-motiur-rahman-50a243190/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=portfolio&logoColor=white)](https://motiur-rahman-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sm-motiur-rahman/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=portfolio&logoColor=white)](https://sm-motiur.vercel.app/)
 [![GitHub Followers](https://img.shields.io/github/followers/motiurrahman124?style=social)](https://github.com/motiurrahman124)
 
 ---
